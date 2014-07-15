@@ -1,0 +1,4 @@
+Instructions :
+1. Put .txt file in folder "text importer".
+2. Open comand prompt and navigate to "text importer" .
+3. Type "python sample.py "you'r .txt file"" and hit enter. (with out qoutes).
