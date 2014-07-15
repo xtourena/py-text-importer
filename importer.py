@@ -14,5 +14,6 @@ print "Here's text from your file %r:" % filename
 print colored (txt.read(),"green")
 print "-------------------------------------------"
 
+print "--------------------------------------------------"
 print "Thanks for using "
 print "--------------------------------------------------"
